@@ -6,6 +6,6 @@
 - [Book Cover Rough] (https://www.flickr.com/photos/aimeesands/sets/72157649097698664)
 - [Infographic] (https://www.flickr.com/photos/aimeesands/17224938779/in/dateposted-public/)
 - [Infographic Rough] (https://www.flickr.com/photos/aimeesands/sets/72157652020174359)
-
+- [Research] (https://github.com/aimeesands/AAD118/research.html)
 
 
